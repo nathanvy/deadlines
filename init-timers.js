@@ -1,10 +1,6 @@
 
 var timerlist = [
     new CountdownTimer({
-	selector: "#clock2",
-	tgtdate: new Date("2023-06-24T08:30:00.000-07:00")
-    }),
-    new CountdownTimer({
 	selector: "#clock3",
 	tgtdate: new Date("2023-07-15T08:30:00.000-07:00")
     }),
